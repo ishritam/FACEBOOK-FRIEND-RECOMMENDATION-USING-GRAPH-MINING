@@ -1,4 +1,7 @@
 # Facebook-Friend-Recommendation-using-Graph-Mining
+
+![image](https://user-images.githubusercontent.com/40149802/64281550-01cd5a00-cf71-11e9-8294-8388346e33d8.png)
+
 ## Problem statement:
 
 This project is based on social media link prediction whether two users are going to be friend in future or not.
