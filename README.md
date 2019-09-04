@@ -1,6 +1,7 @@
 # Facebook-Friend-Recommendation-using-Graph-Mining
 
-![image](https://user-images.githubusercontent.com/40149802/64281550-01cd5a00-cf71-11e9-8294-8388346e33d8.png)
+![image](https://user-images.githubusercontent.com/40149802/64281619-21fd1900-cf71-11e9-8892-49d3e1a08370.png)
+
 
 ## Problem statement:
 
