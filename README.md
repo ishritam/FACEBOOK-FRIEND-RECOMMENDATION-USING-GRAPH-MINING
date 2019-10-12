@@ -1,3 +1,5 @@
+# Graph mining
+Graph Mining is the set of tools and techniques used to (a) analyze the properties of real-world graphs, (b) predict how the structure and properties of a given graph might affect some application, and (c) develop models that can generate realistic graphs that match the patterns found in real-world graphs of interest
 # Facebook-Friend-Recommendation-using-Graph-Mining
 
 ![image](https://user-images.githubusercontent.com/40149802/64281619-21fd1900-cf71-11e9-8892-49d3e1a08370.png)
